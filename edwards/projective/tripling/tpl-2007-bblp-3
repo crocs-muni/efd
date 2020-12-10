@@ -1,6 +1,6 @@
 source 2007 Bernstein--Birkner--Lange--Peters
 parameter cc4
-assume cc4 = 4 c c
+assume cc4 = 4*c*c
 compute XX = X1^2
 compute YY = Y1^2
 compute ZZ = Z1^2

@@ -1,6 +1,7 @@
 source 2007 Bernstein--Lange
+unified
 parameter c2
-assume c2 = 2 c
+assume c2 = 2*c
 compute A = Z1 Z2
 compute B = A^2
 compute C = X1 X2

@@ -1,9 +1,9 @@
 source 2002 Brier--Joye "Weierstrass elliptic curves and side-channel attacks", formulas (9) and (10), plus common-subexpression elimination
 assume Z1 = 1
 parameter b2
-assume b2 = 2 b
+assume b2 = 2*b
 parameter b4
-assume b4 = 4 b
+assume b4 = 4*b
 compute XX = X2^2
 compute ZZ = Z2^2
 compute E = 2((X2 + Z2)^2 - XX - ZZ)

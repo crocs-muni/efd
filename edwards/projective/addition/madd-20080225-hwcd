@@ -1,6 +1,7 @@
 source 2008.02.25 Hisil--Wong--Carter--Dawson, page 8
+unified
 parameter k
-assume k c = 1
+assume k*c = 1
 assume Z2 = 1
 compute A = X1
 compute B = Y1

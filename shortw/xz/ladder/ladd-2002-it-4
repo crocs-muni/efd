@@ -1,6 +1,6 @@
 source 2002 Izu--Takagi "A fast parallel elliptic curve multiplication resistant against side channel attacks", formulas (9) and (10), plus common-subexpression elimination
 parameter b4
-assume b4 = 4 b
+assume b4 = 4*b
 compute XX = X2^2
 compute ZZ = Z2^2
 compute aZZ = a ZZ

@@ -1,6 +1,6 @@
 source 2007 Bernstein--Lange
 parameter cc2
-assume cc2 = 2 c c
+assume cc2 = 2*c*c
 assume Z1 = 1
 compute B = (X1+Y1)^2
 compute C = X1^2

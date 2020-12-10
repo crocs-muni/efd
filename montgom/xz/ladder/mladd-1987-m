@@ -1,7 +1,7 @@
 source 1987 Montgomery "Speeding the Pollard and elliptic curve methods of factorization", page 261, fifth and sixth displays, plus common-subexpression elimination, plus assumption Z1=1
 assume Z1 = 1
 parameter a24
-assume 4 a24 = a+2
+assume 4*a24 = a+2
 compute A = X2+Z2
 compute AA = A^2
 compute B = X2-Z2

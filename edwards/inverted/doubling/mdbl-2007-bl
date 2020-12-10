@@ -1,6 +1,6 @@
 source 2007 Bernstein--Lange
 parameter ccd2
-assume ccd2 = 2 c c d
+assume ccd2 = 2*c*c*d
 assume Z1 = 1
 compute A = X1^2
 compute B = Y1^2

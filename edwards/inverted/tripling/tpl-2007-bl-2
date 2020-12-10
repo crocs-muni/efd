@@ -1,6 +1,6 @@
 source 2007 Bernstein--Lange
 parameter ccd
-assume ccd = c c d
+assume ccd = c*c*d
 compute XX = X1^2
 compute YY = Y1^2
 compute ZZ = Z1^2

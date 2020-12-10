@@ -1,6 +1,6 @@
 source 2007 Bernstein--Birkner--Lange--Peters
 parameter c2
-assume c2 = 2 c
+assume c2 = 2*c
 compute XX = X1^2
 compute YY = Y1^2
 compute ZZ = (c2 Z1)^2

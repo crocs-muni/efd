@@ -2,7 +2,7 @@ source 2006 Gaudry "Variants of the Montgomery form based on Theta functions", p
 parameter s
 assume s = (1+r)/(1-r)
 parameter r2
-assume r2 = 2 r
+assume r2 = 2*r
 assume Z1 = 1
 compute YY = Y1^2
 compute A = r2 YY

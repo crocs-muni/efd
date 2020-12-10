@@ -1,7 +1,7 @@
 source 1998 Hasegawa--Nakajima--Matsui, page 188
 appliesto jacobian-3
 parameter half
-assume 2 half=1
+assume 2*half=1
 compute R1 = X1
 compute R2 = Y1
 compute R3 = Z1
