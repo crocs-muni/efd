@@ -3,6 +3,10 @@ variable X
 variable Y
 variable Z
 variable T
+neutral X = 1
+neutral Y = 1
+neutral Z = 0
+neutral T = 0
 satisfying ZZ = Z^2
 satisfying ZZZ = ZZ*Z
 satisfying x = X/ZZ

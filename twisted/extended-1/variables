@@ -4,6 +4,10 @@ variable X
 variable Y
 variable Z
 variable T
+neutral X = 0
+neutral Y = 1
+neutral Z = 1
+neutral T = 0
 satisfying x = X/Z
 satisfying y = Y/Z
 satisfying x*y = T/Z

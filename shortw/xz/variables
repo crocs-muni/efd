@@ -1,4 +1,6 @@
 name XZ coordinates
 variable X
 variable Z
+neutral X = 1
+neutral Z = 0
 satisfying x = X/Z
