@@ -2,5 +2,8 @@ name inverted coordinates
 variable X
 variable Y
 variable Z
+neutral X = 0
+neutral Y = 1
+neutral Z = c
 satisfying x = Z/X
 satisfying y = Z/Y

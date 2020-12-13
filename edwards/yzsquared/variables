@@ -4,4 +4,6 @@ assume c = 1
 assume d = r^2
 variable Y
 variable Z
+neutral Y = c*c*r
+neutral Z = 1
 satisfying r*y^2 = Y/Z
