@@ -1,5 +1,4 @@
 source Faster Group Operations on Elliptic Curves (Hisil--Wong--Carter--Dawson): https://eprints.qut.edu.au/27634/1/27634_hisil_2010000583.pdf, page 7
-unified
 compute A = X1 Z2
 compute B = Y1 Z2
 compute C = Z1 X2

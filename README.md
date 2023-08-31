@@ -44,8 +44,9 @@ The main differences are:
  - **Unified formulas**: Formulas which claim to be unified are marked as so, using the `unified` tag in the coordinate
                          system files.
  - **Infinity point**: The infinity (or neutral) point was added to more coordinate systems.
- - **New formulas**: Added the Short Weierstrass prime order complete formulas of Renes-Costello-Batina. Added negation
-                     formula for more coordinate systems as well as a scaling formula that was missing.
+ - **New formulas**: Added negation formula for more coordinate systems as well as a scaling formula that was missing.
  - **Removed formulas**: Removed some broken formulas, for example see the formulas at:
                          [shortw/projective-1/addition/add-1986-cc.op3](https://www.hyperelliptic.org/EFD/g1p/auto-code/shortw/projective-1/addition/add-1986-cc.op3)
                          which contain lines such as: `error: not sure how to handle P*(-t5)`.
+
+Last update from EFD as of 31.08.2023.

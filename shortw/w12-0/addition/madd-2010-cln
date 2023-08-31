@@ -1,5 +1,4 @@
 source 2010 Costello--Lange--Naehrig
-unified
 assume Z2 = 1
 compute A = Z1^2
 compute E = X2 Z1

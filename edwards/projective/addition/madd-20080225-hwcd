@@ -1,5 +1,4 @@
 source Faster Group Operations on Elliptic Curves (Hisil--Wong--Carter--Dawson): https://eprints.qut.edu.au/27634/1/27634_hisil_2010000583.pdf, page 6
-unified
 parameter k
 assume k*c = 1
 assume Z2 = 1
