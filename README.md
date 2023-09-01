@@ -1,6 +1,8 @@
 # Explicit-Formulas Database
 A (modifed) export of the [Explicit-Formulas Database](https://www.hyperelliptic.org/EFD/) (EFD) which contains
-the data files and three-operand-code files for the formulas. 
+the data files and three-operand-code files for the formulas. Credit goes to [Daniel J. Bernstein](https://cr.yp.to/djb.html) and [Tanja Lange](https://www.hyperelliptic.org/tanja/)
+for collecting the formulas and to the formula [authors](https://www.hyperelliptic.org/EFD/bib.html). This repository is an export polished for automated use
+and more documentation.
 
 Currently contains only the prime field curve models:
 
