@@ -1,5 +1,4 @@
 source 2001 Bernstein "A software implementation of NIST P-224"
-appliesto jacobian-3
 compute delta = Z1^2
 compute gamma = Y1^2
 compute beta = X1 gamma

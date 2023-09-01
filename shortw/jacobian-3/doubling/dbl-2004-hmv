@@ -1,5 +1,4 @@
 source 2004 Hankerson--Menezes--Vanstone, page 91
-appliesto jacobian-3
 parameter half
 assume 2*half = 1
 compute T1 = Z1^2

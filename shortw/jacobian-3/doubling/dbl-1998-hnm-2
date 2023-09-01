@@ -1,5 +1,4 @@
 source 1998 Hasegawa--Nakajima--Matsui, page 188
-appliesto jacobian-3
 parameter half
 assume 2*half=1
 compute R1 = X1

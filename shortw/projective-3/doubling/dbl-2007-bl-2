@@ -1,5 +1,4 @@
 source 2007 Bernstein--Lange
-appliesto projective-3
 compute w = 3(X1-Z1)(X1+Z1)
 compute s = 2 Y1 Z1
 compute ss = s^2

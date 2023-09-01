@@ -1,5 +1,4 @@
 source 2008 Sutherland
-appliesto xyzz-3
 compute U = 2 Y1
 compute V = U^2
 compute W = U V

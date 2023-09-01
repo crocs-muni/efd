@@ -1,5 +1,4 @@
 source 2007 Bernstein--Lange
-appliesto jacobian-3
 compute YY = Y1^2
 compute ZZ = Z1^2
 compute YYYY = YY^2

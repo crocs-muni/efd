@@ -1,5 +1,4 @@
 source 2015 Renes--Costello--Batina "Complete addition formulas for prime order elliptic curves", Appendix A.2
-appliesto projective-3
 compute t0 = X1^2
 compute t1 = Y1^2
 compute t2 = Z1^2

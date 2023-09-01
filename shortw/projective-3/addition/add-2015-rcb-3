@@ -1,6 +1,5 @@
 source 2015 Renes--Costello--Batina "Complete addition formulas for prime order elliptic curves", Appendix A.2 (and Algorithm 4)
 unified
-appliesto projective-3
 compute t0 = X1 * X2 
 compute t1 = Y1 * Y2 
 compute t2 = Z1 * Z2 
