@@ -7,3 +7,5 @@ variable Z
 neutral Y = c*r
 neutral Z = 1
 satisfying r*y = Y/Z
+tosystem Y = r*y
+tosystem Z = 1

@@ -97,6 +97,10 @@ Has the following values:
                 parameter value.
  - **satisfying***: Equations relating the affine coordinates and the coordinate system ones. Usually with the affine
  					coordinate alone on the left hand side, but not necessarily.
+ - **toaffine***: Equations converting coordinate system cooordinates to affine. Might not be available if the coordinate system
+ 				  does not support them. Might need variables defined in the **satisfying** parameter.
+ - **tosystem***: Equations converting affine coordinates to system ones. Takes a concrete representative, most often
+ 				  with `Z = 1` or similar.
 
 ### Formula
 

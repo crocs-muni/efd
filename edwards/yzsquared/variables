@@ -7,3 +7,5 @@ variable Z
 neutral Y = c*c*r
 neutral Z = 1
 satisfying r*y^2 = Y/Z
+tosystem Y = r*y^2
+tosystem Z = 1
