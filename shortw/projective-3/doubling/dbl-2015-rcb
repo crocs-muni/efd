@@ -1,6 +1,6 @@
 source 2015 Renes--Costello--Batina "Complete addition formulas for prime order elliptic curves", Appendix A.1
 parameter b3
-assume b3 = 3 b
+assume b3 = 3*b
 compute t0 = X1^2
 compute t1 = Y1^2
 compute t2 = Z1^2
