@@ -17,3 +17,7 @@ tosystem X = x
 tosystem Y = y
 tosystem ZZ = 1
 tosystem ZZZ = 1
+homogweight X = 2
+homogweight Y = 3
+homogweight ZZ = 2
+homogweight ZZZ = 3

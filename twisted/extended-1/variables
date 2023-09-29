@@ -17,3 +17,7 @@ tosystem X = x
 tosystem Y = y
 tosystem Z = 1
 tosystem T = x*y
+homogweight X = 1
+homogweight Y = 1
+homogweight Z = 1
+homogweight T = 3
