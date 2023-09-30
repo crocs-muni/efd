@@ -9,3 +9,5 @@ neutral Z = 1
 satisfying r*y = Y/Z
 tosystem Y = r*y
 tosystem Z = 1
+homogweight Y = 1
+homogweight Z = 1

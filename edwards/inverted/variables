@@ -12,3 +12,6 @@ toaffine y = Z/Y
 tosystem X = 1/x
 tosystem Y = 1/y
 tosystem Z = 1
+homogweight X = 1
+homogweight Y = 1
+homogweight Z = 1

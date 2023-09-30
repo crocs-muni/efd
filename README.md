@@ -101,6 +101,7 @@ Has the following values:
  				  does not support them. Might need variables defined in the **satisfying** parameter.
  - **tosystem***: Equations converting affine coordinates to system ones. Takes a concrete representative, most often
  				  with `Z = 1` or similar.
+ - **homogweight***: A weight for each coordinate. The coordinate system is then homogenous with respect to these weights.
 
 ### Formula
 
