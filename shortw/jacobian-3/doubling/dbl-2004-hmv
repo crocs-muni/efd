@@ -1,6 +1,6 @@
 source 2004 Hankerson--Menezes--Vanstone, page 91
 parameter half
-assume 2*half = 1
+assume half = 1/2
 compute T1 = Z1^2
 compute T2 = X1-T1
 compute T1 = X1+T1

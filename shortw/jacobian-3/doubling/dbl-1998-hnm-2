@@ -1,6 +1,6 @@
 source 1998 Hasegawa--Nakajima--Matsui, page 188
 parameter half
-assume 2*half=1
+assume half=1/2
 compute R1 = X1
 compute R2 = Y1
 compute R3 = Z1
